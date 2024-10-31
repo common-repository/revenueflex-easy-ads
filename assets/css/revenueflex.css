@@ -1,0 +1,106 @@
+body #adminmenu .toplevel_page_startPage li:not(.wp-first-item, .contact) a {
+    display:none;
+}
+#wpwrap,.revenueflex {
+    background:#fff;
+}
+.revenueflex #revenueflex-result, .revenueflex #revenueflex-result-top {
+    display: table;
+    margin: 15px auto;
+}
+.revenueflex .revenueflex-form {
+    max-width:100%;
+    width:800px;
+}
+.revenueflex .revenueflex-form input:not([type=submit]) {
+    width:100%;
+}
+.revenueflex .revenueflex-form input + label {
+    display:table;
+    margin-top:16px;
+}
+.revenueflex .container.revenueflex-container {
+    max-width:750px;
+}
+.revenueflex .revenueflex-container p {
+    font-size:16px;
+    line-height:18px;
+}
+.revenueflex .button.button-back, .revenueflex .button.button-back:hover {
+    background: #f44336;
+    color: #fff;
+    border: none;
+}
+.revenueflex .stat-box, .revenueflex .package-wrapper {
+    border:1px solid #e0e0e0;
+    background:#fff;
+    box-shadow: 1px 3px 3px rgba(0, 0, 0, 0.541);
+    padding:15px;
+}
+
+.revenueflex .stat-box .key {
+    font-weight: 600;
+}
+.revenueflex .stat-box .value {
+    font-size:32px;
+    word-break: break-all;
+}
+.wp-core-ui.revenueflex .button-primary, .wp-core-ui.revenueflex  .button.button-back {
+    padding: 12px 20px;
+}
+.revenueflex textarea {
+    width:100%;
+    min-height:200px;
+    font-size: 14px;
+}
+.revenueflex .bg-revenueflex {
+    background-color:#34ca78!important;
+}
+.revenueflex .bg-gray {
+    background-color:#e0e0e0!important;
+}
+
+.revenueflex .revenueflex-info-box {
+    display: none;
+}
+#startPage .submit {
+    text-align: right;
+}
+#revenueflex-result p a {
+    color:inherit;
+}
+.form-check-input:checked[type=radio]+label img {
+    border: 2px solid #63c680;
+}
+.form-check-input[type=radio]+label img {
+    max-height: 250px;
+    width: auto;
+    display: table;
+    margin:0 auto;
+}
+.form-check-input[type=radio]+label p {
+    font-weight: 400;
+}
+.form-check-input:checked[type=radio]+label p {
+    color:#63c680;
+    font-weight: 600;
+}
+#revenueflex-subscription-info .date-info {
+    display: none;
+}
+#revenueflex-subscription-info .price-label.external.d-block {
+    display: none!important;
+}
+.revenueflex-email-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+@media only screen and (max-width: 768px) {
+    .revenueflex .d-flex.justify-content-center.flex-wrap .button {
+        width: 40%;
+        text-align: center;
+        margin: 10px 0;
+    }
+}

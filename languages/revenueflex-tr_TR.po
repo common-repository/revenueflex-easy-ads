@@ -1,0 +1,671 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RevenueFlex Easy Ads\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-07 10:25+0000\n"
+"PO-Revision-Date: 2023-07-13 09:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: revenueflex\n"
+
+#: pages/projectSettingsPage.php:51
+#| msgid "to see the lines."
+msgid " to see the lines."
+msgstr "."
+
+#: pages/projectSettingsPage.php:32
+#| msgid ""
+#| "Add your domains here to protect your quota. RevenueFlex only works on "
+#| "domains listed here. Please enter only root domains without \"www\" or "
+#| "\"https://\""
+msgid ""
+"Add your domains here to protect your quota. Auto Ad Inserter only works on "
+"domains listed here. Please enter only root domains without \"www\" or "
+"\"https://\""
+msgstr ""
+"Kullanım kotanızı korumak için alan adlarınızı buraya girin. Auto Ad "
+"Inserter sadece buradaki alanlarda çalışacaktır. Sadece kök alan adını girin,"
+" başına www veya https:// gibi kısımları yazmayın."
+
+#: pages/updateUserSettingsPage.php:62
+msgid "Address Line 1"
+msgstr "1. adres satırı"
+
+#: pages/updateUserSettingsPage.php:64
+msgid "Address Line 1 (Required)"
+msgstr "1. adres satırı (Zorunlu)"
+
+#: pages/updateUserSettingsPage.php:68 pages/updateUserSettingsPage.php:70
+msgid "Address Line 2"
+msgstr "2. adres satırı"
+
+#: inc.php:51
+msgid "Address:"
+msgstr "Adres:"
+
+#: pages/projectSettingsPage.php:55 pages/projectSettingsPage.php:57
+msgid "Adsense Publisher ID"
+msgstr "Adsense yayıncı kimliği"
+
+#: pages/deleteAccountPage.php:25
+msgid "All user and website information will be lost and can not be recovered."
+msgstr ""
+"Bütün yayıncı ve site ayarları, geri getirilemeyecek şekilde kaybolacaktır."
+
+#: pages/updateEmailValidateKeyPage.php:27
+#: pages/updateEmailValidateKeyPage.php:29
+msgid "API Key"
+msgstr "API anahtarı"
+
+#. Name of the plugin
+msgid "Auto Ad Inserter"
+msgstr "Auto Ad Inserter"
+
+#: pages/startPage.php:22
+msgid ""
+"Auto Ad Inserter is a simple and effective wordpress plugin to increase your "
+"ads' profit the best way.\n"
+"You can easily inject ads into your any web page, also you can choose ad "
+"locations and many options from Project Settings page.\n"
+"Click to Continue to get started!"
+msgstr ""
+"Auto Ad Inserter reklamlarınızın karını en iyi şekilde artırmanızı sağlayan, "
+"basit ve verimli bir Wordpress eklentisidir.\n"
+"Reklamları herhangi bir web sayfasına kolayca ekleyebilirsiniz. Ayrıca "
+"reklam yerleşimleri ve pek çok opsiyonu Proje Ayarları sayfasından "
+"seçebilirsiniz.\n"
+"Başlamak için Devam Et butonuna tıklayın!"
+
+#: inc/helpers.php:16
+#| msgid ""
+#| "RevenueFlex manages your ad placements for each page using an AI based "
+#| "approach."
+msgid ""
+"Auto Ad Inserter manages your ad placements for each page using an AI based "
+"approach."
+msgstr ""
+"Auto Ad Inserter yapay zeka tabanlı bir yaklaşım kullanarak her sayfa için "
+"reklam yerleşimlerinizi yönetir."
+
+#: inc.php:71
+msgid "Auto Ads Per Page"
+msgstr "Sayfa başına reklam sayısı"
+
+#: pages/updateUserSettingsPage.php:50
+msgid "Business Account"
+msgstr "Firma hesabı"
+
+#: inc.php:75
+msgid "Buy Now"
+msgstr "Şimdi satın al"
+
+#: inc.php:77 pages/projectSettingsPage.php:118 pages/subscriptionPage.php:28
+#: pages/deleteAccountPage.php:38 pages/updateEmailPage.php:44
+#: pages/userSettingsPage.php:26 pages/updateUserSettingsPage.php:105
+#: pages/updateEmailValidateKeyPage.php:35 pages/projectSelectCreatePage.php:43
+msgid "Cancel"
+msgstr "Vazgeç"
+
+#: pages/validateKeyPage.php:78
+msgid "Cancel and use another email address"
+msgstr "Vazgeç ve farklı bir eposta adresi kullan"
+
+#: pages/userSettingsPage.php:27
+msgid "Change email address"
+msgstr "E-Posta adresi değiştir"
+
+#: pages/updateEmailPage.php:32
+msgid "Change your email address"
+msgstr "E-Posta adresiniz değiştir"
+
+#: pages/updateEmailValidateKeyPage.php:22
+msgid "Check your mail box"
+msgstr "Posta kutunu kontrol et"
+
+#: pages/validateKeyPage.php:27
+msgid "Check your mailbox and copy api key below."
+msgstr "Posta kutunuzu kontrol edin ve api anahtarını aşağıdaki kopyalayın."
+
+#: pages/updateUserSettingsPage.php:74
+msgid "City"
+msgstr "Şehir"
+
+#: pages/updateUserSettingsPage.php:76
+msgid "City (Required)"
+msgstr "Şehir (Zorunlu)"
+
+#: inc.php:52
+msgid "City:"
+msgstr "Şehir:"
+
+#: pages/projectSettingsPage.php:51
+msgid "Click here"
+msgstr "buraya tıklayın"
+
+#: pages/userSettingsPage.php:29
+msgid "Close my account"
+msgstr "Hesabımı kapat"
+
+#: pages/userSettingsPage.php:22 pages/updateUserSettingsPage.php:33
+#: pages/updateUserSettingsPage.php:35
+msgid "Company Name"
+msgstr "Firma Adı"
+
+#: inc.php:86
+msgid "Contact Us"
+msgstr "Bize Yazın"
+
+#: inc.php:78 pages/updateEmailPage.php:45 pages/startPage.php:29
+#: pages/validateKeyPage.php:79 pages/updateEmailValidateKeyPage.php:36
+msgid "Continue"
+msgstr "Devam Et"
+
+#: pages/updateEmailValidateKeyPage.php:23
+msgid "Copy and paste here new API key here from"
+msgstr "API anahtarını buraya kopyalayın"
+
+#: pages/updateUserSettingsPage.php:86
+msgid "Country"
+msgstr "Ülke"
+
+#: inc.php:53
+msgid "Country:"
+msgstr "Ülke:"
+
+#: pages/projectSelectCreatePage.php:10
+msgid "Create New Project"
+msgstr "Yeni proje oluştur"
+
+#: pages/projectSelectCreatePage.php:44
+msgid "Create Project"
+msgstr "Proje oluştur"
+
+#: inc.php:88
+msgid "Current Subscription"
+msgstr "Mevcut abonelik"
+
+#: inc.php:80 inc/initPages.php:11
+msgid "Dashboard"
+msgstr "Ana Sayfa"
+
+#: inc/initPages.php:17 pages/deleteAccountPage.php:39
+msgid "Delete Account"
+msgstr "Hesabı sil"
+
+#: pages/deleteAccountPage.php:23
+msgid "Delete account"
+msgstr "Hesabı sil"
+
+#: pages/projectSettingsPage.php:82
+msgid "Desktop Ad Density"
+msgstr "Masaüstü Reklam Yoğunluğu"
+
+#: inc.php:62
+msgid "Desktop Ads PerPage"
+msgstr "Masaüstü Sayfa Başına Reklam"
+
+#: inc.php:60
+msgid "Desktop Auto Ads"
+msgstr "Masaüstü Otomatik Reklam"
+
+#: inc.php:67
+msgid "Desktop Page Views"
+msgstr "Masaüstü Sayfa Görüntüleme"
+
+#: inc.php:58
+msgid "Desktop Unfilled"
+msgstr "Masaüstü Boş"
+
+#: inc.php:74
+msgid "Details"
+msgstr "Ayrıntılar"
+
+#: inc.php:132 pages/updateUserSettingsPage.php:27
+msgid "Email"
+msgstr "E-Posta"
+
+#: pages/updateUserSettingsPage.php:29
+msgid "Email (Required)"
+msgstr "E-Posta (Zorunlu)"
+
+#: pages/userSettingsPage.php:21
+msgid "Email Address"
+msgstr "E-Posta Adresi"
+
+#: inc.php:90
+msgid "End Date"
+msgstr "Bitiş Tarihi"
+
+#: pages/projectSettingsPage.php:36
+msgid ""
+"Enter one domain per line &#10;example.com &#10;example1.com &#10;example2."
+"com"
+msgstr ""
+"Her satıra bir alan adı giriniz. Örnek: &#10;example.com &#10;example1.com "
+"&#10;example2.com"
+
+#: pages/projectSettingsPage.php:115
+msgid "Enter one url per line &#10;example.com/sports &#10;example.com/news"
+msgstr ""
+"Her satıra bir adres giriniz. Örnek: &#10;example.com/sports &#10;example."
+"com/news"
+
+#: pages/projectSettingsPage.php:109
+msgid ""
+"Enter one url per line&#10;example.com/exampleurl1 &#10;example."
+"com/exampleurl2 &#10;example.com/exampleurl3"
+msgstr ""
+"Her satıra bir adres giriniz. Örnek: &#10;example.com/exampleurl1 &#10;"
+"example.com/exampleurl2 &#10;example.com/exampleurl3"
+
+#: pages/projectSettingsPage.php:107
+msgid "Exact Match"
+msgstr "Tam uyum"
+
+#: pages/projectSettingsPage.php:104
+msgid "Exclude Pages"
+msgstr "Sayfaları hariç bırak"
+
+#: pages/userSettingsPage.php:23 pages/updateUserSettingsPage.php:39
+msgid "Full Name"
+msgstr "Tam İsim"
+
+#: pages/updateUserSettingsPage.php:41
+msgid "Full Name (Required)"
+msgstr "Tam İsim (Zorunlu)"
+
+#. Author URI of the plugin
+msgid "https://www.revenueflex.com/"
+msgstr "https://www.revenueflex.com/"
+
+#. URI of the plugin
+msgid "https://www.revenueflex.com/auto-ad-inserter"
+msgstr "https://www.revenueflex.com/auto-ad-inserter"
+
+#: pages/startPage.php:25
+msgid ""
+"If you require any further information, feel free to <a href=\"https://www."
+"revenueflex.com/#contact\" target=\"_blank\">contact us</a>."
+msgstr ""
+"Daha fazla bilgi almak isterseniz, bizimle her zaman <a href=\"https://www."
+"revenueflex.com/#contact\" target=\"_blank\">iletişime</a> geçebilirsiniz."
+
+#: pages/projectSettingsPage.php:113
+#| msgid ""
+#| "If you want to exclude RevenueFlex from a certain section on a website "
+#| "enter urls below. RevenueFlex will not process these pages and any pages "
+#| "staring with the given url."
+msgid ""
+"If you want to exclude Auto Ad Inserter from a certain section on a website "
+"enter urls below. Auto Ad Inserter will not process these pages and any "
+"pages staring with the given url."
+msgstr ""
+"Sitenizin belli bölümlerinin Auto Ad Inserter tarafından işlenmesini "
+"istemiyorsanız, adresleri aşağıya girin. Auto Ad Inserter bu adreslerle "
+"başlayan sayfalarda çalışmayacaktır."
+
+#: pages/projectSettingsPage.php:108
+#| msgid ""
+#| "If you want to exclude RevenueFlex from certain pages on your website "
+#| "enter urls below. RevenueFlex will not process these pages."
+msgid ""
+"If you want to exclude Auto Ad Inserter from certain pages on your website "
+"enter urls below. Auto Ad Inserter will not process these pages."
+msgstr ""
+"Sitenizin belli sayfalarında Auto Ad Inserter çalışmasını istemiyorsanız, "
+"adresleri aşağıya girin. Auto Ad Inserter bu sayfalarda çalışmayacaktır."
+
+#: pages/projectSettingsPage.php:114
+#| msgid ""
+#| "If you want to exclude the entire sports section on your website enter "
+#| "\"example.com/sports\" and RevenueFlex will not process the page or any "
+#| "page starting with the given url (example.com/sports/1, example."
+#| "com/sports2 etc)"
+msgid ""
+"If you want to exclude the entire sports section on your website enter "
+"\"example.com/sports\" and Auto Ad Inserter will not process the page or any "
+"page starting with the given url (example.com/sports/1, example.com/sports2 "
+"etc)"
+msgstr ""
+"Mesela sitenizin spor bölümünü dışarda bırakmak için \"site.com/spor\" "
+"girebilirsiniz. Bu şekilde başlayan (örneğin site.com/spor/1 ve site."
+"com/spor2 gibi ) sayfalarda çalışmayacaktır."
+
+#: inc.php:48 pages/updateUserSettingsPage.php:46
+msgid "Invoice Info"
+msgstr "Fatura Bilgisi"
+
+#: pages/dashboardPage.php:29
+msgid "Logout"
+msgstr "Çıkış yap"
+
+#: pages/projectSettingsPage.php:61
+msgid "Mobile Ad Density"
+msgstr "Mobil Reklam Yoğunluğu"
+
+#: inc.php:63
+msgid "Mobile Ads PerPage"
+msgstr "Mobil Sayfa Başına Reklam"
+
+#: inc.php:70
+msgid "Mobile Auto Ads"
+msgstr "Mobil Otomatik Reklam"
+
+#: inc.php:66
+msgid "Mobile Page Views"
+msgstr "Mobil Sayfa Görüntüleme"
+
+#: inc.php:72
+msgid "Mobile Unfilled"
+msgstr "Mobil Boş"
+
+#: pages/projectSettingsPage.php:47
+msgid "Monetize Unfilled Impressions"
+msgstr "Boş Geçen Reklamlardan Kazan"
+
+#: pages/updateUserSettingsPage.php:56
+msgid "Name on Invoice"
+msgstr "Fatura Üstüne Yazılacak İsim"
+
+#: pages/updateUserSettingsPage.php:58
+msgid "Name on Invoice (Required)"
+msgstr "Fatura Üstüne Yazılacak İsim (Zorunlu)"
+
+#: inc.php:50
+msgid "Name on Invoice:"
+msgstr "Fatura Üstüne Yazılacak İsim:"
+
+#: inc.php:49
+msgid "Name:"
+msgstr "İsim:"
+
+#: pages/updateEmailPage.php:36 pages/updateEmailPage.php:38
+msgid "New email address"
+msgstr "Yeni e-posta adresi"
+
+#: inc.php:87
+msgid "Next Subscription"
+msgstr "Sonraki Abonelik"
+
+#: inc.php:59
+msgid "Pages Awaiting"
+msgstr "İşlemdeki sayfalar"
+
+#: inc.php:130
+msgid "Please enter your email address for better support."
+msgstr "Daha iyi destek için lütfen e-posta adresinizi giriniz:"
+
+#: inc.php:95
+msgid "Please enter your user information before subscribing."
+msgstr "Lütfen abone olmadan önce aşağıdaki bilgileri doldurun."
+
+#: pages/deleteAccountPage.php:26
+msgid "Please write your email address to confirm."
+msgstr "Lütfen doğrulama için e-posta adresinizi yazın."
+
+#: pages/updateUserSettingsPage.php:80 pages/updateUserSettingsPage.php:82
+msgid "Post Code"
+msgstr "Posta Kodu"
+
+#: inc.php:54
+msgid "Postcode:"
+msgstr "Posta Kodu:"
+
+#: inc.php:73
+msgid "Price"
+msgstr "Fiyat"
+
+#: inc.php:64
+msgid "Processed Pages"
+msgstr "İşlenmiş Sayfalar"
+
+#: inc/initPages.php:10
+msgid "Project Create / Select"
+msgstr "Proje Oluştur/Seç"
+
+#: inc.php:79
+msgid "Project Created"
+msgstr "Proje Oluşturuldu"
+
+#: pages/projectSettingsPage.php:31
+msgid "Project Domains (Add domain)"
+msgstr "Proje Alan Adları (Alan Adı Ekleme)"
+
+#: pages/projectSelectCreatePage.php:17 pages/projectSelectCreatePage.php:22
+msgid "Project Name"
+msgstr "Proje Adı"
+
+#: inc/initPages.php:12 pages/projectSettingsPage.php:29
+#: pages/dashboardPage.php:27
+msgid "Project Settings"
+msgstr "Proje Ayarları"
+
+#. Author of the plugin
+#| msgid "Revenueflex"
+msgid "revenueflex"
+msgstr "RevenueFlex"
+
+#: pages/projectSettingsPage.php:41
+msgid "RevenueFlex Enabled"
+msgstr "RevenueFlex aktif"
+
+#: inc.php:82
+msgid ""
+"RevenueFlex will analyze and start to place ads to your pages shortly.\n"
+"        If you see any inappropriate placements please <a href=\"https://www."
+"revenueflex.com/#contact\" target=\"_blank\">contact us</a> immediately. "
+"RevenueFlex also supports Google \n"
+"        admanager ads and other ad networks. If you need other ads please <a "
+"href=\"https://www.revenueflex.com/#contact\" target=\"_blank\">contact us."
+"</a>"
+msgstr ""
+"RevenueFlex kısa bir süre sonra sayfalarınızı işlemeye başlayacak.\n"
+"        Herhangi bir yerde uygunsuz reklam yerleşimi görürseniz, lütfen bu "
+"adresten bize bildirin: <a href=\"https://www.revenueflex.com/#contact\" "
+"target=\"_blank\">iletişim</a>. RevenueFlex, adsense yanında Google "
+"admanager ve diğer ağları da destekler. Bu konular için de bizimle <a  "
+"href=\"https://www.revenueflex.com/#contact\" target=\"_blank\">iletişime "
+"geçin.</a>"
+
+#: pages/projectSettingsPage.php:119 pages/updateUserSettingsPage.php:106
+msgid "Save"
+msgstr "Sakla"
+
+#: inc.php:135
+msgid "Save Email"
+msgstr "E-Postayı Kaydet"
+
+#: inc.php:76
+msgid "Select"
+msgstr "Seç"
+
+#: pages/projectSelectCreatePage.php:51
+msgid "Select Project"
+msgstr "Proje Seç"
+
+#: inc.php:57
+msgid "Select project to use:"
+msgstr "Kullanılacak projeyi seç:"
+
+#: pages/subscriptionPage.php:23
+msgid "Select your subscription"
+msgstr "Abonelik seç"
+
+#: inc.php:89
+msgid "Start Date"
+msgstr "Başlama"
+
+#: pages/projectSettingsPage.php:112
+msgid "Starts With"
+msgstr "Bununla başlayan"
+
+#: inc.php:81 pages/dashboardPage.php:26
+msgid "Subscription"
+msgstr "Abonelik"
+
+#: inc.php:19
+#| msgid ""
+#| "The subscription will start now and first period will end on [endDate] ."
+msgid "The subscription will start now and first period will end on [endDate]."
+msgstr ""
+"Aboneliğiniz şimdi başlayacak ve ilk dönem [endDate] tarihinde bitecek."
+
+#: inc.php:20
+msgid ""
+"The subscription will start now and first period will end on [endDate]. "
+"First price is [firstPrice] [currency], other times are [regularPrice] "
+"[currency] ."
+msgstr ""
+"Aboneliğiniz şimdi başlayacak ve ilk dönem [endDate] tarihinde bitecek. İlk "
+"dönem ücreti [firstPrice] [currency], sonraki dönemler [regularPrice] "
+"[currency] olarak ücretlendirilecektir."
+
+#: inc.php:21
+msgid ""
+"The subscription will start on [startDate] and first period will end on "
+"[endDate] ."
+msgstr ""
+"Aboneliğiniz [startDate] tarihinde başlayacak ve ilk dönem [endDate] "
+"tarihinde bitecek."
+
+#: inc.php:47
+msgid "There is no project."
+msgstr "Tanımlı proje yok."
+
+#: pages/deleteAccountPage.php:24
+msgid "This action cannot be reversed."
+msgstr "Bu eylem geri alınamaz."
+
+#: inc.php:22
+msgid "This subscription is currently used."
+msgstr "Bu abonelik kullanımda."
+
+#: inc.php:65
+msgid "Total Auto Ads"
+msgstr "Toplam Otomatik Reklam"
+
+#: inc.php:68
+msgid "Total Page Views"
+msgstr "Toplam Sayfa Görüntüleme"
+
+#: inc.php:69
+msgid "Total Pages"
+msgstr "Toplam Sayfa Sayısı"
+
+#: inc.php:61
+msgid "Unfilled"
+msgstr "Boş"
+
+#. Description of the plugin
+msgid ""
+"Unlock your website's revenue potential with a data-driven approach. With "
+"our state-of-the-art technology, you can take advantage of artificial "
+"intelligence for more ad revenue and a better overall user experience."
+msgstr ""
+"Sitenizin gelir potansiyelini serbest bırakın. Kullanıcı deneyiminizi "
+"geliştirirken, aynı zamanda gelirinizi de artırın."
+
+#: inc/initPages.php:15
+msgid "Update Email"
+msgstr "E-Posta Güncelle"
+
+#: inc/initPages.php:16
+msgid "Update Email Validate Key"
+msgstr "E-Posta Güncelleme Anahtar Doğrulama"
+
+#: pages/userSettingsPage.php:28
+msgid "Update user info"
+msgstr "Kullanıcı bilgisi güncelle"
+
+#: inc/initPages.php:14
+msgid "Update User Settings"
+msgstr "Kullanıcı Ayarları Güncelle"
+
+#: pages/updateUserSettingsPage.php:23
+msgid "User Info"
+msgstr "Kullanıcı Bilgisi"
+
+#: pages/userSettingsPage.php:19
+msgid "User Information"
+msgstr "Kullanıcı Bilgileri"
+
+#: inc/initPages.php:13 pages/dashboardPage.php:28
+msgid "User Settings"
+msgstr "Kullanıcı Ayarları"
+
+#: inc/initPages.php:9
+msgid "Validate Key"
+msgstr "Anahtar Doğrula"
+
+#: pages/validateKeyPage.php:10
+msgid "Validate Your Api Key"
+msgstr "Api Anahtarını Doğrula"
+
+#: pages/updateUserSettingsPage.php:94 pages/updateUserSettingsPage.php:96
+msgid "Vat Number"
+msgstr "KDV numarası"
+
+#: inc.php:55
+msgid "Vat Number:"
+msgstr "KDV numarası:"
+
+#: pages/startPage.php:21
+msgid "Welcome to Auto Ad Inserter"
+msgstr "Auto Ad Inserter'a Hoşgeldiniz"
+
+#: inc.php:29
+msgid ""
+"You cannot close your account because you have a paid subscription and its "
+"current period will end on [endDate].<br>You can edit from [URL]"
+msgstr ""
+"Ücretli bir aboneliğiniz olduğu için ve şu anki dönem [endDate] tarihinde "
+"sona ereceğinden dolayı hesabınızı kapatamazsınız.<br>[URL] adresinden "
+"değişiklik yapabilirsiniz."
+
+#: inc.php:31
+msgid ""
+"You cannot close your account because you have a project belonging to "
+"another service: [serviceNames].<br> You can edit from [URL]"
+msgstr ""
+"Başka bir servise ait bir projeniz olduğu için hesabınızı kapatamazsınız: "
+"[serviceNames].<br> [URL] adresinden giriş yaparak düzenleme yapabilirsiniz."
+
+#: inc.php:30
+msgid ""
+"You cannot close your account because you have another project: "
+"[projectNames].<br>You can edit from [URL]"
+msgstr ""
+"Başka bir projeniz olduğu için hesabınızı kapatamazsınız: [projectNames].<br>"
+"[URL] adresinden giriş yaparak düzenleme yapabilirsiniz."
+
+#: inc.php:26
+msgid "You have a free subscription."
+msgstr "Ücretsiz abonelik kullanmaktasınız."
+
+#: inc.php:25
+msgid "You have a paid subscription and plan for next period."
+msgstr "Sonraki dönem için ücretli bir aboneliğiniz var."
+
+#: pages/projectSettingsPage.php:50
+msgid "You need to add several lines to your ads.txt file."
+msgstr ""
+"ads.txt dosyanıza birkaç satır eklemeniz gerekir. Bu satırları görmek için"
+
+#: pages/validateKeyPage.php:17 pages/validateKeyPage.php:22
+msgid "Your API Key"
+msgstr "API anahtarınız"
+
+#: pages/subscriptionPage.php:19
+msgid "Your Current Subscription"
+msgstr "Mevcut Aboneliğiniz"
+
+#: inc.php:56
+msgid "Your email address is wrong."
+msgstr "E-Posta adresi hatalı."

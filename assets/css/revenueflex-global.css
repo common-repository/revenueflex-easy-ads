@@ -1,0 +1,3 @@
+body #adminmenu .toplevel_page_startPage li:not(.wp-first-item) a {
+    display:none;
+}
